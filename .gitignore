@@ -1,0 +1,17 @@
+.Rproj.user
+.Rhistory
+.RData
+.DS_Store
+
+# Bloqueia dados brutos e temporários
+
+dados_discursos_brutos/
+dados_google/cache/
+temp_discursos/
+rsconnect/                   
+dados_processados/temp_cubo/ 
+
+# Regras de exceção (Libera os parquets finais)
+
+!dados_google/*.parquet
+!dados_processados/*.parquet
