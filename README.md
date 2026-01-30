@@ -5,7 +5,7 @@
 ![ETL](https://img.shields.io/badge/ETL-Pipeline-orange)
 
 <div align="center">
-  <a href="#-english">🇺🇸 English</a> |
+  <a href="#-english">English</a> |
   <a href="#-português">🇧🇷 Português</a>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div id="-english"></div>
 
-## 🇺🇸 English
+## English
 
 ### Project Overview
 The **Political Seismograph** is a data analysis tool that measures the correlation between **Public Interest** (Google Trends searches) and **Parliamentary Speech** (Official Chamber of Deputies speeches).
