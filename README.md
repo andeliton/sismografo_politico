@@ -62,4 +62,4 @@ Este projeto inclui um pipeline completo de dados:
 * **Frontend:** `Shiny`, `bslib`, `Highcharter`.
 
 ---
-*Developed by [Seu Nome]*
+*Developed by Andéliton Soares*
